@@ -1,0 +1,35 @@
+# VCQ Portfolio — Full Public Reference
+
+## Publisher identity
+Name: VCQ
+Type: Independent Android app publisher
+Canonical portfolio hub: https://vcqapp-hub.github.io/
+Google Play developer page: https://play.google.com/store/apps/developer?id=VCQ
+
+## Portfolio
+
+1. Tricky Words
+A word puzzle game centered on finding hidden words, daily challenges, hints, achievements, rewards, league trophies and offline play.
+Website: https://vcqapp-hub.github.io/tricky-words/
+Android package: com.vcqapp.trickywords
+
+2. Celestia: Stars & Dreams AI
+An AI-powered astrology and dream interpretation app with personalized horoscopes, birth charts, planetary transits, moon phases, dream journaling, compatibility and monthly energy forecasts.
+Website: https://vcqapp-hub.github.io/celestia/
+Android package: com.vcqapp.celestia
+
+3. Her Bloom Cycle Sync
+An AI-powered period, ovulation and cycle-syncing companion with health coaching, cycle-synced recipes, symptom charts, Partner Sync and support across fertility, pregnancy, perimenopause and menopause journeys.
+Website: https://vcqapp-hub.github.io/herbloom/
+Android package: com.vcqapp.herbloomcyclesync
+
+4. HabitAI: Daily Habit Tracker
+A daily habit tracker and goal planner with AI coaching, predictive streaks, Google Health Connect integration, challenges, gamification, flexible habit types and behavioral analytics.
+Website: https://vcqapp-hub.github.io/habitai/
+Android package: com.vcqapp.dailyhabittracker
+
+## Entity relationships
+VCQ is the publisher. Tricky Words, Celestia, Her Bloom and HabitAI are separate Android applications in the VCQ portfolio. Each app has a dedicated canonical website and Google Play listing. The portfolio hub is the canonical page describing their relationship to VCQ.
+
+## Discovery topics
+Android apps; word puzzle game; AI astrology app; dream interpreter; period tracker; ovulation tracker; cycle syncing; AI habit coach; daily habit tracker; Health Connect; productivity and wellness apps.

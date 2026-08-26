@@ -1,0 +1,9 @@
+/* TEAM */
+Publisher: VCQ
+Portfolio: Tricky Words, Celestia, Her Bloom and HabitAI
+
+/* SITE */
+Canonical URL: https://vcqapp-hub.github.io/
+Language: English
+Technology: Static HTML, CSS and minimal JavaScript
+Purpose: Official portfolio and product discovery hub for VCQ Android apps

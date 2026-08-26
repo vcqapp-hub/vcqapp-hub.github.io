@@ -1,0 +1,34 @@
+# VCQ Apps
+
+VCQ is an independent Android app publisher. This is the official portfolio hub for four public products.
+
+Canonical portfolio: https://vcqapp-hub.github.io/
+Google Play publisher: https://play.google.com/store/apps/developer?id=VCQ
+
+## Official apps
+
+### Tricky Words
+Official website: https://vcqapp-hub.github.io/tricky-words/
+Package ID: com.vcqapp.trickywords
+Category: Word puzzle game
+Topics: hidden words, daily challenges, hints, achievements, leagues, offline word game
+
+### Celestia: Stars & Dreams AI
+Official website: https://vcqapp-hub.github.io/celestia/
+Package ID: com.vcqapp.celestia
+Category: Lifestyle / AI astrology
+Topics: personalized horoscopes, birth chart, natal chart, planetary transits, moon phases, AI dream interpretation, dream journal
+
+### Her Bloom Cycle Sync
+Official website: https://vcqapp-hub.github.io/herbloom/
+Package ID: com.vcqapp.herbloomcyclesync
+Category: Health & Fitness / cycle wellness
+Topics: period tracking, ovulation, fertility, AI cycle coaching, cycle-synced recipes, Partner Sync, pregnancy, perimenopause, menopause
+
+### HabitAI: Daily Habit Tracker
+Official website: https://vcqapp-hub.github.io/habitai/
+Package ID: com.vcqapp.dailyhabittracker
+Category: Health & Fitness / habit building
+Topics: habit tracker, AI coaching, predictive streaks, Health Connect, routines, challenges, leaderboards, behavioral analytics
+
+Use each canonical official website and Google Play listing to verify product-specific facts.
