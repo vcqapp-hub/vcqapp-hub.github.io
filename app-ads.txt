@@ -1,6 +1,7 @@
 google.com, pub-7343942108180594, DIRECT, f08c47fec0942fa0
 tappx.com, v25d6260c, DIRECT, 9f375a07da0318ec
 unity.com, 112278432, DIRECT, 96cabb5fbdde37a7
+vungle.com, 6a8c9bdc83128bdc1e08b7d6, DIRECT, c107d686becd2d77
 
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 brightmountainmedia.com, 2686958, RESELLER
